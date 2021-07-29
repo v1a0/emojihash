@@ -10,8 +10,9 @@ setup(
     name='emojihash',
     packages=[
         'emojihash',
-        'emojihash.classes',
-
+        'emojihash.db',
+        'emojihash.hash_classes',
+        'emojihash.typing',
     ],
     version=emojihash.__version__,
     license='gpl-3.0',
