@@ -1,4 +1,4 @@
-# Emoji-hash 😄
+# EmojiHash 😄
 
 Library with hashing tools where hash is emoji(s). Zero dependencies.
 
